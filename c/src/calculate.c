@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include "calculate.h"
 #include "add.h"
 #include "sub.h"
 
